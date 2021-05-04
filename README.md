@@ -7,7 +7,7 @@
 # Live
 
 
-<a href="https://fir-flutter-demo-app-6580e.web.app/#/">playstation_parallax_effect</a>
+<a href="https://fire-a03f9.web.app/#/">playstation_parallax_effect</a>
 
 
 ### Screenshots 
