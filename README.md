@@ -1,16 +1,33 @@
-# playstationapp
+# Playstation clone 
+## Adaptive layout
+## parallax effect in flutter web
 
-playstation app with parallax effect
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Live
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<a href="https://fir-flutter-demo-app-6580e.web.app/#/">playstation_parallax_effect</a>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Screenshots 
+ 
+
+ # Mobile View 
+<p>
+      <img src="https://github.com/suryadevsingh/playstationapp/blob/master/assets/sceenshots/playstation.gif" alt="playstation_parallax_effect.com">
+  </p>
+  
+ # Web View 
+ <p>
+      <img src="https://github.com/suryadevsingh/playstationapp/blob/master/assets/sceenshots/playstation1.png" alt="playstation_parallax.com">
+  
+ </p>
+
+ # Tablet View 
+ <p>
+      <img src="https://github.com/suryadevsingh/playstationapp/blob/master/assets/sceenshots/playstation2.png" alt="playstation+parallax.com">
+  
+ </p>
+
+
