@@ -2,7 +2,7 @@
 ## Adaptive layout
 ## parallax effect in flutter web
 
-
+### Show some 🌟 and ❤️ the repo to support the project
 
 # Live
 
