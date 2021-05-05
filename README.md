@@ -26,7 +26,7 @@
 
  # Tablet View 
  <p>
-      <img src="https://github.com/suryadevsingh/playstationapp/blob/master/assets/sceenshots/playstation2.png" alt="playstation+parallax.com">
+      <img src="https://github.com/suryadevsingh/playstationapp/blob/master/assets/sceenshots/playstation2.png" alt="playstation_parallax.com">
   
  </p>
 
